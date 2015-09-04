@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  
+spring:
+  resources:
+    cachePeriod: 0
+
+#server.compression.enabled: true
+#server.compression.min-response-size: 1
+
+#logging:
+#  level:
+#    org.springframework: 'TRACE'

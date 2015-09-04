@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cobai-appstore
+#  cloud:
+#    config:
+#      enabled: true
+#      uri: http://cloudconfig.cobai.io:8386
+
